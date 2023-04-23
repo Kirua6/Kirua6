@@ -8,7 +8,7 @@ J'ai créé un site qui me sert de CV, il est disponible [ici](https://kvrcybert
 
 ## 🗞️ Quelques projets 
 [![Space_Invaders_KVR](https://github.com/Kirua6/Kirua6/blob/main/Images/space_i.PNG)](https://github.com/Kirua6/Space_Invaders_KVR) 
-[![Installation_Xibo](https://github.com/Kirua6/Kirua6/blob/main/Images/xibo.PNG)](https://github.com/Kirua6/Installation_Xibo)
+[![Installation_Xibo](https://github.com/Kirua6/Kirua6/blob/main/Images/xibo_i.PNG)](https://github.com/Kirua6/Installation_Xibo)
 [![Puzzle_Bobble_KVR](https://github.com/Kirua6/Kirua6/blob/main/Images/puzzle.PNG)](https://github.com/Kirua6/Puzzle_Bobble_KVR)
 [![Labyrinthe_en_java](https://github.com/Kirua6/Kirua6/blob/main/Images/labyri.PNG)](https://github.com/Kirua6/Labyrinthe_en_java)
 
