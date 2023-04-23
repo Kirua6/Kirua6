@@ -14,30 +14,30 @@ J'ai créé un site qui me sert de CV, il est disponible [ici](https://kvrcybert
 
 ## 🧰 Les différentes techno que j'ai pu utiliser
 ### O.S 
-• Ubuntu
-• Kali
-• Debian
-• Windows
-• Raspberry Pi OS
+• Ubuntu <br>
+• Kali <br>
+• Debian <br>
+• Windows <br>
+• Raspberry Pi OS <br>
 ### Développement
-• C/C++
-• Java
-• Javascript
-• HTML5/CSS3
-• PHP
-• SQL (Mysql/PostgreSQL/MongoDB)
+• C/C++ <br>
+• Java <br>
+• Javascript <br>
+• HTML5/CSS3 <br>
+• PHP <br>
+• SQL (Mysql/PostgreSQL/MongoDB) <br>
 ### Autres
-• pfSense
-• VMware
+• pfSense <br>
+• VMware <br>
 
 ## 🧰 Les différentes techno que j'apprends à utiliser 
 • Nmap <br>
-• Wireshark
-• SET
-• Reaver
-• Docker-compose
-• PHP/JS/SQL |LAMP/Let's encrypt
-• GitHub / Gitlab
-• Python
-• Arduino/Raspberry
+• Wireshark <br>
+• SET <br>
+• Reaver <br>
+• Docker-compose <br>
+• PHP/JS/SQL |LAMP/Let's encrypt <br>
+• GitHub / Gitlab <br>
+• Python <br>
+• Arduino/Raspberry 
 
