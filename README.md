@@ -30,7 +30,7 @@ J'ai créé un site qui me sert de CV, il est disponible [ici](https://kvrcybert
 • pfSense <br>
 • VMware <br>
 
-## 🧰 Les différentes techno que j'apprends à utiliser 
+## 🛡️ Les différentes techno que j'apprends à utiliser 
 • Nmap <br>
 • Wireshark <br>
 • SET <br>
