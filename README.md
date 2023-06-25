@@ -8,7 +8,7 @@ J'ai créé un site qui me sert de CV, il est disponible [ici](https://kvrcybert
 J'héberge sur le même serveur des outils que j'ai développé : <br>
 Outil de calcul [IPV4 ](https://kvrcybertechno.online/ipv4)<br>
 Outil de calcul Note [Bts SNIR](https://kvrcybertechno.online/calculateur)<br>
-Outil de génération de [Qrcode](https://kvrcybertechno.online/qrcode)<br>
+Outil de génération de [QRcode](https://kvrcybertechno.online/qrcode)<br>
 
 ## 🗞️ Quelques projets 
 [![Space_Invaders_KVR](https://github.com/Kirua6/Kirua6/blob/main/Images/space_i.PNG)](https://github.com/Kirua6/Space_Invaders_KVR) 
