@@ -8,8 +8,8 @@ J'ai codé un site d'édition de tutoriel, disponible depuis ce [lien](https://p
 Le github associé où l'on peut retrouver les ressources de ce tutoriel, [Git Pass And Secure](https://github.com/PassAndSecure/)<br>
 J'ai aussi créé un site qui me sert de CV, il est disponible [ici](https://kvrcybertechno.online/)<br>
 
-J'ai notamment créé un [dépôt complet pour Gophish](https://github.com/PassAndSecure/Template_Gophish), ainsi qu'une version francisée et améliorée de celui-ci 
-J'ai aussi créé une application génératrice de mot de passe 100% locale nommée [KreatPass](https://github.com/Kirua6/KreatPass)
+J'ai notamment créé un [dépôt complet pour Gophish](https://github.com/PassAndSecure/Template_Gophish), ainsi qu'une version francisée et améliorée de celui-ci <br>
+J'ai aussi créé une application génératrice de mot de passe 100% locale nommée [KreatPass](https://github.com/Kirua6/KreatPass)<br>
 Un script autour d'Active Directory qui sert à importer à partir d'un CSV M365 les utilisateurs vers votre AD avec toute leurs informations convertis est aussi disponible [ici](https://github.com/Kirua6/Creating_Active_Directory_Users_By_Csv_M365), un script complémentaire [d'ajout des alias SMTP](https://github.com/Kirua6/Add_Alias_SMTP_User_AD) est aussi disponible
 
 ## 🗞️ Quelques projets 
