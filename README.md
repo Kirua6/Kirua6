@@ -1,59 +1,96 @@
-# 👨‍💻 print("Hello World")
+# 👨‍💻 Killian Van Ruymbeke
+### Cybersécurité • DevSecOps • Automatisation d’infrastructure
 
-## 👨‍🎓 Une courte présentation s'impose
-Je me nomme Killian, je suis actuellement étudiant en M1 à la [Cyber Management School](https://www.cyber-management-school.com/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&duration=3200&pause=900&color=8D28F5&center=true&vCenter=true&width=900&lines=Cybersécurité+%26+DevSecOps;Automatisation+d'infrastructure;Sécurité+Cloud+%26+Containers;Création+de+plateformes+de+sécurité;Open+Source+%26+Cybersécurité+pratique" alt="Typing SVG" />
+</p>
 
-## 💻 Mes sites
-J'ai codé un site d'édition de tutoriel, disponible depuis ce [lien](https://passandsecure.fr/)<br>
-Le github associé où l'on peut retrouver les ressources de ce tutoriel, [Git Pass And Secure](https://github.com/PassAndSecure/)<br>
-J'ai aussi créé un site qui me sert de CV, il est disponible [ici](https://kvrcybertechno.online/)<br>
+<p align="center">
+  <a href="https://passandsecure.fr">
+    <img src="https://img.shields.io/badge/Site-Pass%20And%20Secure-8D28F5?style=for-the-badge" />
+  </a>
+  <a href="https://kvrcybertechno.online">
+    <img src="https://img.shields.io/badge/CV-En%20ligne-1B1035?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/PassAndSecure/GophishFR">
+    <img src="https://img.shields.io/badge/Projet-GophishFR-E040FB?style=for-the-badge" />
+  </a>
+</p>
 
-J'ai notamment créé [GophishFR](https://github.com/PassAndSecure/GophishFR)<br><br>
-J'ai aussi créé une application génératrice de mot de passe 100% locale nommée [KreatPass](https://github.com/Kirua6/KreatPass)<br><br>
-Un script autour d'Active Directory qui sert à importer à partir d'un CSV M365 les utilisateurs vers votre AD avec toute leurs informations convertis est aussi disponible [ici](https://github.com/Kirua6/Creating_Active_Directory_Users_By_Csv_M365), un script complémentaire [d'ajout des alias SMTP](https://github.com/Kirua6/Add_Alias_SMTP_User_AD) est aussi disponible
+---
 
-## 📊 GitHub Metrics
+# 🧠 À propos
+
+Passionné par la **cybersécurité, l’automatisation et les infrastructures modernes**.
+
+Mon objectif est de concevoir des **outils, plateformes et solutions techniques orientées sécurité**, en combinant développement, automatisation et infrastructure.
+
+Mes domaines principaux :
+
+- 🛡️ Cybersécurité
+- ⚙️ DevSecOps
+- ☁️ Sécurité Cloud
+- 🐳 Sécurité des containers
+- 🏗️ Infrastructure as Code
+- 🤖 Automatisation
+
+J’aime construire des **projets open-source concrets**, expérimenter de nouvelles architectures et partager des connaissances techniques.
+
+---
+
+# 🚀 Projets principaux
+
+## 🎣 GophishFR
+
+Version adaptée pour l’écosystème francophone de **Gophish**, l’outil de simulation de phishing.
+
+Objectifs :
+
+- campagnes de **sensibilisation au phishing**
+- formation à la cybersécurité
+- déploiement simplifié
+
+🔗 Repository  
+https://github.com/PassAndSecure/GophishFR
+
+---
+
+## 🔐 Pass And Secure
+
+Plateforme dédiée aux **tutoriels en cybersécurité, infrastructure et DevSecOps**.
+
+Contenu :
+
+- tutoriels techniques
+- labs pratiques
+- sécurité offensive et défensive
+- infrastructure et automatisation
+
+🌍 Site  
+https://passandsecure.fr
+
+📦 GitHub  
+https://github.com/PassAndSecure
+
+---
+
+## 🔑 KreatPass
+
+Générateur de mots de passe **100% local et respectueux de la vie privée**.
+
+Caractéristiques :
+
+- génération locale
+- aucune communication serveur
+- mots de passe robustes
+
+🔗  
+https://github.com/Kirua6/KreatPass
+
+--- 
+
+# Métriques (lié projets publique)
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirua6&theme=tokyonight" height="170"/></p>
 
-## 🧠 GitHub Activity
-
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirua6&theme=tokyo-night"/></p>
-
-## 🗞️ Quelques projets 
-[![Space_Invaders_KVR](https://github.com/Kirua6/Kirua6/blob/main/Images/space_i.PNG)](https://github.com/Kirua6/Space_Invaders_KVR) 
-[![Website_KVR](https://github.com/Kirua6/Kirua6/blob/main/Images/Website_i.PNG)](https://github.com/Kirua6/Website_KVR)
-[![Installation_Xibo](https://github.com/Kirua6/Kirua6/blob/main/Images/xibo_i.PNG)](https://github.com/Kirua6/Installation_Xibo)
-[![Puzzle_Bobble_KVR](https://github.com/Kirua6/Kirua6/blob/main/Images/puzzle_i.PNG)](https://github.com/Kirua6/Puzzle_Bobble_KVR)
-[![Calcul_IPV4_KVR](https://github.com/Kirua6/Kirua6/blob/main/Images/ipv4_i.PNG)](https://github.com/Kirua6/Calcul_IPV4_KVR)
-<!--[![Labyrinthe_en_java](https://github.com/Kirua6/Kirua6/blob/main/Images/labyri.PNG)](https://github.com/Kirua6/Labyrinthe_en_java)-->
-
-## 🧰 Les différentes techno que j'ai pu utiliser
-### O.S 
-• Ubuntu <br>
-• Kali <br>
-• Debian <br>
-• Windows <br>
-• Raspberry Pi OS <br>
-### Développement
-• C/C++ <br>
-• Java <br>
-• Javascript <br>
-• HTML5/CSS3 <br>
-• PHP <br>
-• SQL (Mysql/PostgreSQL/MongoDB) <br>
-### Autres
-• pfSense <br>
-• VMware <br>
-
-## 🛡️ Les différentes techno que j'apprends à utiliser 
-• Nmap <br>
-• Wireshark <br>
-• SET <br>
-• Reaver <br>
-• Docker-compose <br>
-• PHP/JS/SQL |LAMP/Let's encrypt <br>
-• GitHub / Gitlab <br>
-• Python <br>
-• Arduino/Raspberry 
-
