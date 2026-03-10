@@ -7,14 +7,14 @@
 
 <p align="center">
   <a href="https://passandsecure.fr">
-    <img src="https://img.shields.io/badge/Site-Pass%20And%20Secure-8D28F5?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Site-Pass%20And%20Secure-E040FB?style=for-the-badge" />
   </a>
   <a href="https://kvrcybertechno.online">
     <img src="https://img.shields.io/badge/CV-En%20ligne-1B1035?style=for-the-badge" />
   </a>
-  <a href="https://github.com/PassAndSecure/GophishFR">
-    <img src="https://img.shields.io/badge/Projet-GophishFR-E040FB?style=for-the-badge" />
-  </a>
+  <a href="https://getgophishfr.com" style="text-decoration:none;">
+<img src="https://img.shields.io/badge/GophishFR-555555?style=for-the-badge"/><img src="https://getgophishfr.com/images/badge-gophishfr-black.svg" height="28" style="vertical-align:middle;margin-left:-4px;"/>
+</a>
 </p>
 
 ---
