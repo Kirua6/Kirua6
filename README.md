@@ -89,7 +89,7 @@ https://github.com/Kirua6/KreatPass
 
 --- 
 
-# Métriques (lié projets publique)
+# Métriques (liées projets publique)
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirua6&theme=tokyonight" height="170"/></p>
 
