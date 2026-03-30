@@ -9,7 +9,7 @@
   <a href="https://passandsecure.fr">
     <img src="https://img.shields.io/badge/Site-Pass%20And%20Secure-E040FB?style=for-the-badge" />
   </a>
-  <a href="https://kvrcybertechno.online">
+  <a href="https://kvrcybertechno.fr">
     <img src="https://img.shields.io/badge/CV-En%20ligne-1B1035?style=for-the-badge" />
   </a>
   <a href="https://getgophishfr.com" style="text-decoration:none;">
