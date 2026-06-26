@@ -72,21 +72,79 @@ J’aime construire des **projets open source concrets**, expérimenter de nouve
 # 🚀 Projets principaux
 
 ## 🧠 Mnemo
+🧠 Mnemo
 
-Assistant local-first d’historique shell développé en **Rust**, pensé pour retrouver rapidement ses commandes via une **TUI moderne**, une recherche fuzzy et un contexte projet basé sur Git.
+Outil open source en Rust pour rechercher, parcourir et exploiter son historique shell localement, avec une approche local-first, sans serveur ni cloud.
 
-Mnemo enregistre l’historique dans une base **SQLite locale**, sans serveur ni cloud, avec une approche orientée confidentialité, fiabilité et sécurité dès la conception.
+Mnemo utilise une base SQLite locale, une interface CLI/TUI, une recherche fuzzy, une gestion par sessions/projets, des exports de rapports et des fonctions de sécurité comme le scan/redaction de secrets dans l’historique.
 
-Ce projet me permet de démontrer une approche complète **DevSecOps / Security by Design** appliquée à un outil réel :
+Au-delà de l’outil, Mnemo me sert surtout de projet concret pour démontrer une démarche DevSecOps complète, de la gouvernance GitHub jusqu’à la release sécurisée.
 
-- 🦀 **Rust & robustesse logicielle** : binaire unique, typage fort, gestion stricte des erreurs et réduction des risques mémoire.
-- 🔍 **TUI & expérience terminal** : interface interactive avec recherche fuzzy, filtres par projet, branche Git, dossier et statut d’exécution.
-- 🔒 **Confidentialité local-first** : données stockées localement, filtrage des commandes sensibles et absence de composant serveur.
-- 🛡️ **Security by Design** : threat model, invariants de sécurité, protections contre les suppressions accidentelles, sauvegardes et restauration contrôlée.
-- ⚙️ **Supply Chain Security** : dépendances auditées avec `cargo-audit`, `cargo-deny`, `cargo-machete`, checksums SHA-256, SBOM et signatures Sigstore/cosign.
-- 🚀 **CI/CD DevSecOps** : workflows GitHub Actions avec `fmt`, `clippy`, tests, audit sécurité, détection de secrets, scripts shell vérifiés et releases reproductibles.
+<p align="center">
+  <a href="https://github.com/Vesperis-group/mnemo">
+    <img src="https://img.shields.io/badge/Repo-mnemo-8D28F5?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://scorecard.dev/viewer/?uri=github.com/Vesperis-group/mnemo">
+    <img src="https://img.shields.io/badge/OpenSSF%20Scorecard-7.8%2F10-1B1035?style=for-the-badge" />
+  </a>
+  <a href="https://www.bestpractices.dev/projects/13366">
+    <img src="https://www.bestpractices.dev/projects/13366/badge" />
+  </a>
+</p>⚙️ Fonctionnalités principales
 
-🔗 Repository  
+- 🔎 Recherche fuzzy dans l’historique shell
+- 🖥️ Interface CLI/TUI pour parcourir rapidement les commandes
+- 🧭 Contexte projet : "git_root", branches, dossiers, sessions
+- 📄 Exports Markdown/JSON pour rapports de travail
+- 🔐 Scan et redaction de secrets dans l’historique
+- 🗄️ Stockage local SQLite, sans composant serveur
+- 🧰 Commandes de maintenance : backup, restore, doctor, update, upgrade
+
+🔐 DevSecOps & Supply Chain Security
+
+Mnemo intègre une chaîne DevSecOps complète autour du développement, de la validation et de la publication :
+
+- 🛡️ Gouvernance GitHub
+  
+  - rulesets sur "main" et les tags
+  - pull requests obligatoires
+  - signatures de commits requises
+  - checks requis avant merge
+  - CODEOWNERS et review policy
+  - protection contre les suppressions et force-push
+
+- ⚙️ CI/CD stricte
+  
+  - "cargo fmt"
+  - "cargo clippy -D warnings"
+  - "cargo test --locked"
+  - build release
+  - ShellCheck et actionlint
+  - release smoke tests post-publication
+
+- 🔍 Analyse sécurité
+  
+  - SAST avec CodeQL
+  - scan de secrets avec Gitleaks
+  - audits dépendances avec "cargo-audit"
+  - politiques dépendances avec "cargo-deny"
+  - détection de dépendances inutilisées avec "cargo-machete"
+  - fuzzing avec "cargo-fuzz"
+
+- 📦 Supply Chain Security
+  
+  - Dependabot pour Cargo, npm et GitHub Actions
+  - GitHub Actions épinglées par SHA complet
+  - permissions minimales dans les workflows
+  - GitHub App dédiée pour automatiser les releases sans PAT personnel
+  - checksums SHA-256
+  - SBOM
+  - signatures/provenance Sigstore
+  - workflow de smoke test d’installation des releases
+
+Ce projet illustre ma manière de travailler : partir d’un besoin réel, construire un outil utilisable, puis l’entourer d’une chaîne de sécurité, de qualité et de publication cohérente.
+
+🔗 Repository
 https://github.com/Vesperis-group/mnemo
 
 ---
@@ -172,7 +230,7 @@ https://github.com/Kirua6/KreatPass
 
 ---
 
-# 📌 Ce que je construis
+📌 Ce que je construis
 
 J’oriente mes projets autour de quelques principes simples :
 
@@ -180,8 +238,9 @@ J’oriente mes projets autour de quelques principes simples :
 - automatiser ce qui peut l’être
 - intégrer la sécurité dès la conception
 - documenter proprement les choix techniques
-- privilégier les architectures maintenables
-- apprendre en construisant des projets réels
+- sécuriser la chaîne CI/CD et les releases
+- appliquer des pratiques DevSecOps concrètes sur des projets réels
+- privilégier les architectures maintenables, auditables et reproductibles
 
 ---
 
